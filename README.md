@@ -29,7 +29,7 @@ And finally you can download the displayed table as a CVS file.
 First clone the project and `cd` into it:
 
 ```shell
-$ git clone https://github.com/natonnelier/nfl.git
+$ git clone https://github.com/natonnelier/nfl_app.git
 $ cd nfl
 ```
 
@@ -61,6 +61,7 @@ $ mix phx.server
 And run client:
 
 ```shell
+$ cd nfl_client
 $ npm run serve
 ```
 
