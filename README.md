@@ -30,7 +30,7 @@ First clone the project and `cd` into it:
 
 ```shell
 $ git clone https://github.com/natonnelier/nfl_app.git
-$ cd nfl
+$ cd nfl_app
 ```
 
 ##### Run using the script
