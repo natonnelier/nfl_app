@@ -1,4 +1,4 @@
-# theScore "the Rush" Interview Challenge
+# NFL stats
 
 ![How to use it?](https://p-rdfqrzrn.b4.n0.cdn.getcloudapp.com/items/2NulkNXQ/fd245e46-88b2-453a-84b1-8565f693319b.jpeg?v=67df1832e6a0ba5c7591ab316a7ddaa4)
 
